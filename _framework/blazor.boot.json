@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PKHeX.Web",
   "resources": {
-    "hash": "sha256-wi7lN/t0uDm8CSql9Yx6xGfz3NbOpXXoT9vkzG/QRis=",
+    "hash": "sha256-mXT375F70Egas2ePuzYnhs8vVJ5FJAeTlEPAAs/SQF4=",
     "fingerprinting": {
       "AntDesign.8g48fh0ior.wasm": "AntDesign.wasm",
       "AntDesign.Charts.fd0s4ia51e.wasm": "AntDesign.Charts.wasm",
@@ -99,11 +99,11 @@
       "System.7mkjnfwul0.wasm": "System.wasm",
       "netstandard.sqp3quqcts.wasm": "netstandard.wasm",
       "System.Private.CoreLib.27wadnic8o.wasm": "System.Private.CoreLib.wasm",
-      "PKHeX.Core.AutoMod.kxyzhimhh9.wasm": "PKHeX.Core.AutoMod.wasm",
-      "PKHeX.Core.l4aci9svqm.wasm": "PKHeX.Core.wasm",
-      "PKHeX.Facade.gft8jxg5xl.wasm": "PKHeX.Facade.wasm",
-      "PKHeX.Web.Plugins.ttj1bk9iwg.wasm": "PKHeX.Web.Plugins.wasm",
-      "PKHeX.Web.59w3hp8edm.wasm": "PKHeX.Web.wasm",
+      "PKHeX.Core.AutoMod.cyjcmqas6r.wasm": "PKHeX.Core.AutoMod.wasm",
+      "PKHeX.Core.oxmxzzsn8f.wasm": "PKHeX.Core.wasm",
+      "PKHeX.Facade.p92vwvnnpl.wasm": "PKHeX.Facade.wasm",
+      "PKHeX.Web.Plugins.7s39y6om6q.wasm": "PKHeX.Web.Plugins.wasm",
+      "PKHeX.Web.uwhprmzwqf.wasm": "PKHeX.Web.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.xidrk0eo52.js": "dotnet.native.js",
       "dotnet.native.y68cfu4kuf.wasm": "dotnet.native.wasm",
@@ -225,11 +225,11 @@
       "System.Xml.XmlSerializer.qrv1ljhg1l.wasm": "sha256-Fsi+xycbw/VkCmQl1xjOa5yUKiMsNrSTTlL6ySH9LxU=",
       "System.7mkjnfwul0.wasm": "sha256-H4K9w0OHWwZCaMDfVwQjW0dSqnnS/iuCkysBB+Q2c3A=",
       "netstandard.sqp3quqcts.wasm": "sha256-FNfbATqdsJc59i5dkGBXKl+gZ+1RffTW/Qie0mNzpAM=",
-      "PKHeX.Core.AutoMod.kxyzhimhh9.wasm": "sha256-mHT/XQnKap1hULgmppPDASMyRx2ohiNFXw/ZHnU/qlY=",
-      "PKHeX.Core.l4aci9svqm.wasm": "sha256-RVRHUrNuQ6tGz8QrXnmMPCKWP7gmOl9VdvFR4I8TYx0=",
-      "PKHeX.Facade.gft8jxg5xl.wasm": "sha256-/J0pEcdK5wRkt72PAVzt+KMkHVUtoo5oYrKokf7pLDg=",
-      "PKHeX.Web.Plugins.ttj1bk9iwg.wasm": "sha256-oeVHNg52QXtG9VBktuVUNeIqJpVBS6zbAV4Yt2DF08E=",
-      "PKHeX.Web.59w3hp8edm.wasm": "sha256-94Rq4C6P1oaUYt1C7Sw9OngIbBXbLxehftP8rskcrSY="
+      "PKHeX.Core.AutoMod.cyjcmqas6r.wasm": "sha256-/PFG+Z0tc7nQTRgKvROFkWUlUs2fc+ZxXmWOpeVsTb8=",
+      "PKHeX.Core.oxmxzzsn8f.wasm": "sha256-pB4BugwN1a/IUA5w02s0vnTS23C18EPSXIcdjJiu+B0=",
+      "PKHeX.Facade.p92vwvnnpl.wasm": "sha256-w7b8/9DYTMfl616fGxBxiqSRyXM5KI65kBCYbzXjwOI=",
+      "PKHeX.Web.Plugins.7s39y6om6q.wasm": "sha256-mUqxnfJ4b8ihqYZ2udBNGNoL25INsDMx4k+vHhr8Bdw=",
+      "PKHeX.Web.uwhprmzwqf.wasm": "sha256-7mkd5Ppb4zhvSn89RqHtQZy8psJABJMKvv6Ug/JZtvY="
     },
     "libraryInitializers": {
       "_content/AntDesign.Charts/AntDesign.Charts.av4k20dzh2.lib.module.js": "sha256-WtjukWtCag2lcDyTsPV+Sub6aVwDyTzs4iuIshChAEE=",
