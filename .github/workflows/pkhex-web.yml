@@ -105,7 +105,7 @@ jobs:
           repository: DamianS-eng/PKHeX.Everywhere
           ref: gh-pages
           path: pkhex-web
-          token: ${{ secrets.GIT_HUB_PKHEX_WEB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Copy artifacts to Github pages repository
         run: |
