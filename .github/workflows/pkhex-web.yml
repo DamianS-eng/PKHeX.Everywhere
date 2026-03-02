@@ -102,7 +102,7 @@ jobs:
       - name: Checkout PKHeX.Web repository
         uses: actions/checkout@v4
         with:
-          repository: pkhex-web/pkhex-web.github.io
+          repository: DamianS-eng/DamianS-eng.github.io/PKHeX.Everywhere
           ref: gh-pages
           path: pkhex-web
           token: ${{ secrets.GIT_HUB_PKHEX_WEB_TOKEN }}
