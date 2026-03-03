@@ -72,7 +72,7 @@ jobs:
           if [ ! -f "$APPSETTINGS_FILE" ]; then
             echo "{}" > "$APPSETTINGS_FILE"
           fi
-          
+          echo "BACKEND API BASE URI value is: ${{vars.BACKEND_API_BASE_URI}}"
           jq '
             .BackendApi.Debugging = false | 
             .BackendApi.Enabled = ("${{ vars.BACKEND_API_ENABLED }}" | fromjson? // false) | 
