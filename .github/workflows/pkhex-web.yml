@@ -15,7 +15,8 @@ permissions:
 jobs:
   build_and_publish:
     runs-on: ubuntu-latest
-
+    env:
+      BASE_URL: "/PKHeX.Everywhere/"
     steps:
       - uses: actions/checkout@v4
         with:
